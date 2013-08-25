@@ -1,0 +1,1 @@
+require "lyk/version"
