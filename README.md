@@ -1,5 +1,5 @@
 # Lyk
-https://travis-ci.org/ilhanoguzhan/lyk.png?branch=master
+<img src="https://travis-ci.org/ilhanoguzhan/lyk.png?branch=master"/>
 
 Kamp 2013 Example gem
 
