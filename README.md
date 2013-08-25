@@ -1,6 +1,7 @@
 # Lyk
+https://travis-ci.org/ilhanoguzhan/lyk.png?branch=master
 
-TODO: Write a gem description
+Kamp 2013 Example gem
 
 ## Installation
 
